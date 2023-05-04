@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Study\Computer Vision\Assignments\SIFT\C++prog\SIFT_Match\SIFT_Match\mySift.h(1,1): warning C4828: 文件包含在偏移 0x1548 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Study\Computer Vision\Assignments\SIFT\C++prog\SIFT_Match\SIFT_Match\main.cpp(18,1): warning C4005: “MAX_PATH”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(60,1): message : 参见“MAX_PATH”的前一个定义
+E:\Study\Computer Vision\Assignments\SIFT\C++prog\SIFT_Match\SIFT_Match\main.cpp(19,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\Study\Computer Vision\Assignments\SIFT\C++prog\SIFT_Match\SIFT_Match\main.cpp(19,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  SIFT_Match.vcxproj -> E:\Study\Computer Vision\Assignments\SIFT\C++prog\SIFT_Match\x64\Debug\SIFT_Match.exe
